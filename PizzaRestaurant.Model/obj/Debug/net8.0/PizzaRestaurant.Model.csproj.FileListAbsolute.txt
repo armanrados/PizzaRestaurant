@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\bin\Debug\net8.0\PizzaRestaurant.Model.deps.json
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\bin\Debug\net8.0\PizzaRestaurant.Model.runtimeconfig.json
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\bin\Debug\net8.0\PizzaRestaurant.Model.dll
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\bin\Debug\net8.0\PizzaRestaurant.Model.pdb
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.sourcelink.json
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.dll
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\refint\PizzaRestaurant.Model.dll
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.pdb
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\PizzaRestaurant.Model.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\PizzaOrder\PizzaRestaurant\PizzaRestaurant.Model\obj\Debug\net8.0\ref\PizzaRestaurant.Model.dll
